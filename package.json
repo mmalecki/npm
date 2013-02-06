@@ -41,7 +41,7 @@
     "graceful-fs": "~1.2.0",
     "minimatch": "~0.2.8",
     "nopt": "~2.1.1",
-    "rimraf": "2",
+    "rimraf": "git+https://github.com/mmalecki/rimraf#sunos",
     "request": "~2.9",
     "which": "1",
     "tar": "~0.1.12",
